@@ -3,7 +3,7 @@
     class="h-screen w-screen flex items-center justify-center transition-colors duration-500"
     :class="mainColor.bg"
   >
-    <div class="w-screen bg-white px-8 py-4 text-center h-64 md:w-1/2">
+    <div class="w-screen bg-white px-8 py-4 text-center md:w-1/3">
       <!-- Quote Container -->
       <div class="m-4 flex flex-col">
         <p
